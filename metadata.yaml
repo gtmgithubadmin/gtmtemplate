@@ -2,5 +2,5 @@ homepage: "https://www.channelsight.com",
 documentation: [TO DO]
 versions:
   # Latest version
-  - sha:  
+  - sha: 26ac4a72e047d216d5485abf756a85bae213f997 
     changeNotes: Initial Version
