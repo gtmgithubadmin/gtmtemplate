@@ -1,0 +1,6 @@
+homepage: "https://www.channelsight.com",
+documentation: [TO DO]
+versions:
+  # Latest version
+  - sha:  
+    changeNotes: Initial Version
