@@ -2,5 +2,8 @@ homepage: "https://www.channelsight.com"
 documentation: [TO DO]
 versions:
   # Latest version
+  - sha: ce1727b9ab4302597a19833c6109a2ab857e4e13 
+    changeNotes: fix metadata file
+  # Older version
   - sha: 26ac4a72e047d216d5485abf756a85bae213f997 
-    changeNotes: Initial Version
+    changeNotes: initial version
