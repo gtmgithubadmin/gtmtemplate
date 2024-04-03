@@ -2,9 +2,11 @@ homepage: "https://www.channelsight.com"
 documentation: "https://github.com/gtmgithubadmin/gtmtemplate/blob/main/README.md"
 versions:
   # Latest version
+  - sha: 24b7198a0a16b2e25d4bc4080883569fbce8be50
+    changeNotes: change sha
+  # Older version
   - sha: 40150371aff08070be55f99486f343ec6328caf6
     changeNotes: add documentation
-  # Older version
   - sha: ce1727b9ab4302597a19833c6109a2ab857e4e13
     changeNotes: fix metadata file
   - sha: 26ac4a72e047d216d5485abf756a85bae213f997
